@@ -1,0 +1,38 @@
+D:\Programming\Geektrust Challenges\Geektrust\bin\Debug\net5.0\Geektrust.exe
+D:\Programming\Geektrust Challenges\Geektrust\bin\Debug\net5.0\Geektrust.deps.json
+D:\Programming\Geektrust Challenges\Geektrust\bin\Debug\net5.0\Geektrust.runtimeconfig.json
+D:\Programming\Geektrust Challenges\Geektrust\bin\Debug\net5.0\Geektrust.runtimeconfig.dev.json
+D:\Programming\Geektrust Challenges\Geektrust\bin\Debug\net5.0\Geektrust.dll
+D:\Programming\Geektrust Challenges\Geektrust\bin\Debug\net5.0\Geektrust.pdb
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.csproj.AssemblyReference.cache
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.AssemblyInfoInputs.cache
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.AssemblyInfo.cs
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.csproj.CoreCompileInputs.cache
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.dll
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\refint\Geektrust.dll
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.pdb
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\Geektrust.genruntimeconfig.cache
+D:\Programming\Geektrust Challenges\Geektrust\obj\Debug\net5.0\ref\Geektrust.dll
+D:\Programming\Geektrust Challenges\Geektrust\geektrust\Geektrust.exe
+D:\Programming\Geektrust Challenges\Geektrust\geektrust\Geektrust.deps.json
+D:\Programming\Geektrust Challenges\Geektrust\geektrust\Geektrust.runtimeconfig.json
+D:\Programming\Geektrust Challenges\Geektrust\geektrust\Geektrust.runtimeconfig.dev.json
+D:\Programming\Geektrust Challenges\Geektrust\geektrust\Geektrust.dll
+D:\Programming\Geektrust Challenges\Geektrust\geektrust\Geektrust.pdb
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\geektrust\geektrust.exe
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\geektrust\geektrust.deps.json
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\geektrust\geektrust.runtimeconfig.json
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\geektrust\geektrust.runtimeconfig.dev.json
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\geektrust\geektrust.dll
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\geektrust\geektrust.pdb
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\Geektrust.csproj.AssemblyReference.cache
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\Geektrust.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\Geektrust.AssemblyInfoInputs.cache
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\Geektrust.AssemblyInfo.cs
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\Geektrust.csproj.CoreCompileInputs.cache
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\geektrust.dll
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\refint\geektrust.dll
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\geektrust.pdb
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\Geektrust.genruntimeconfig.cache
+D:\Programming\Geektrust Challenges\Water Management\Geektrust\obj\Debug\net5.0\ref\geektrust.dll
